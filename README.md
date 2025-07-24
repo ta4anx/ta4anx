@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaan Çakmak</h1>
+<h1 align="center">Hi 🖖, I'm Kaan Çakmak</h1>
 <h3 align="center">I'm a developer and electronics hobbyist currently studying at Osmangazi University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ta4anx" alt="ta4anx" /></a> </p>
