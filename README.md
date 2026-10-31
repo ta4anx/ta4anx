@@ -1,14 +1,46 @@
-<h1 align="center">Hi 🖖, I'm Kaan Çakmak</h1>
-<h3 align="center">I'm a developer and electronics hobbyist currently studying at Osmangazi University</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ta4anx" alt="ta4anx" /></a> </p>
+<!-- DYNAMIC ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=S%C3%BCleyman%20Kaan%20%C3%87akmak&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%26%20Computer%20Science%20%7C%20EdTech%20Creator%20%7C%20Systems%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-- 📫 How to reach me **kaancakmak@workmail.com**
+<!-- ANIMATED TYPING SVG -->
+<a href="https://bitdahi.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%3E+Mathematician+by+training%2C+Developer+%26+SysAdmin+by+passion.;%3E+Founder+of+BitDahi+%26+ByteDahi+Media+Network+%7C+bitdahi.com;%3E+Crafting+Mathematical+Animations+with+Manim+%26+Python;%3E+Self-Hosting+%7C+Linux+Enthusiast+%7C+AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaancakmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaancakmak" height="30" width="40" /></a>
+<!-- SOCIAL & PROJECT BADGES -->
+<p align="center">
+  <a href="https://bitdahi.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_WEBSITE-bitdahi.com-00E676?style=for-the-badge&logoColor=white&labelColor=101418" alt="BitDahi Website" />
+  </a>
+  <a href="https://youtube.com/@BitDahi" target="_blank">
+    <img src="https://img.shields.io/badge/📺_YOUTUBE-BitDahi-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101418" alt="BitDahi YouTube" />
+  </a>
+  <a href="https://esogu.edu.tr" target="_blank">
+    <img src="https://img.shields.io/badge/🎓_ESOGÜ-Math_%26_CS_Senior-3B82F6?style=for-the-badge&labelColor=101418" alt="ESOGU" />
+  </a>
+  <a href="mailto:kaan@bitdahi.com">
+    <img src="https://img.shields.io/badge/📫_CONTACT-Email_Me-F59E0B?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101418" alt="Contact" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+### 🖥️ `whoami` — System & Profile Overview
+
+```text
+       _..._           kaan@bitdahi-server
+     .'     '.         -------------------
+    /  _   _  \        OS: GNU/Linux (Ubuntu LTS) x86_64
+    | (o)_(o) |        Role: Senior B.Sc. Student in Mathematics & Computer Science
+     \(     )/         Institution: Eskişehir Osmangazi University (ESOGÜ)
+     //'._.'\ \        Certification: High School Mathematics Pedagogy & Teaching
+    //   .   \ \       Ventures: Founder @ BitDahi (bitdahi.com) & ByteDahi Network
+   ||   .     \ \      Infrastructure: Docker, Dokploy, Kubernetes, Cloudflare, KeenDNS
+   |\   :     / |      Research: LaTeX Typesetting, Taxicab Geometry, Linear Optimization
+   \ `) '   (`  /      Multimedia: Manim (Python), Blender, DaVinci Resolve Fusion
+    `)``"._."` (`      Uptime: 23 Years | Location: Eskişehir, TR
+
+I operate at the intersection of pure mathematics, software engineering, and educational technology. As a final-year Mathematics and Computer Science student at Eskişehir Osmangazi University, my work ranges from formal mathematical typesetting ($\LaTeX$) and algorithmic optimization to full-stack web engineering, computer vision, and Linux server orchestration.🚀 Featured Platform: bitdahi.comBitDahi (and the ByteDahi Media Network) is my flagship educational technology initiative designed to bridge abstract mathematical concepts and modern digital classrooms:🛠️ Interactive Web Suite (bitdahi.com): A fast, client-side educational toolkit built with modern JavaScript, Vite, and PHP—featuring classroom timers, dynamic scoreboards, randomizers, and automated puzzle/word-search generators for educators.🎬 Algorithmic Math Animations: Producing deep-dive visual explanations and motion graphics using Python (Manim), Blender, and DaVinci Resolve Fusion.📐 Academic & Pedagogical Rigor: Combining certified mathematics pedagogy with software engineering to build tools that actually work in real classrooms.🏛️ Core Engineering Pillars🛠️ Technology Stack & ArsenalLanguages & Core ScriptingDevOps, Linux & InfrastructureFrameworks, AI, Multimedia & Databases
