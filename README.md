@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- DYNAMIC ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=S%C3%BCleyman%20Kaan%20%C3%87akmak&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%26%20Computer%20Science%20%7C%20EdTech%20Creator%20%7C%20Systems%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://bitdahi.com">
