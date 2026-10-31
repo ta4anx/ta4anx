@@ -5,6 +5,7 @@
 <a href="https://bitdahi.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%3E+Mathematician+by+training%2C+Developer+%26+SysAdmin+by+passion.;%3E+Founder+of+BitDahi+%26+ByteDahi+Media+Network+%7C+bitdahi.com;%3E+Crafting+Mathematical+Animations+with+Manim+%26+Python;%3E+Self-Hosting+%7C+Linux+Enthusiast+%7C+AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
 </a>
+<br>
 
 <!-- SOCIAL & PROJECT BADGES -->
 <p align="center">
